@@ -1,2 +1,2 @@
 # Linear-Regression-in-Python
-Implementing Linear Regression in Python
+Implemented Linear Regression in Python
